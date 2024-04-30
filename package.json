@@ -1,0 +1,25 @@
+{
+  "name": "projet-q",
+  "version": "1.0.0",
+  "description": "the first projects of gibbon's studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G8ite/gibbon_1.git"
+  },
+  "author": "G8ite&Nobine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G8ite/gibbon_1/issues"
+  },
+  "homepage": "https://github.com/G8ite/gibbon_1#readme",
+  "devDependencies": {
+    "express": "^4.19.2"
+  },
+  "dependencies": {
+    "phaser": "^3.80.1"
+  }
+}
