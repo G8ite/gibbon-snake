@@ -39,7 +39,7 @@ Aller dans le dossier
 Se rendre à :
 
 ```bash
-  https://localhost:3000
+  http://localhost:3000
 ```
 
 Kiffer
